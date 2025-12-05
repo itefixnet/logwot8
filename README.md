@@ -78,11 +78,6 @@ To remove Logwot8 from your system, simply delete the installation directory.
 
 ## Links
 
-- **Website**: [https://itefix.net/logwot8](https://itefix.net/logwot8)
-- **GitHub Repository**: [https://github.com/itefixnet/logwot8](https://github.com/itefixnet/logwot8)
-- **Releases**: [https://github.com/itefixnet/logwot8/releases](https://github.com/itefixnet/logwot8/releases)
-- **Logrotate Man Page**: [https://itefix.net/content/logrotate-man-page](https://itefix.net/content/logrotate-man-page)
-
 ## License
 
 Logwot8 is licensed under the BSD 2-Clause License.
