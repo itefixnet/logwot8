@@ -7,7 +7,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 - cygwin 3.6.5
 
-[3..2.4]: https://github.com/itefixnet/logwot8/releases/tag/v3.2.4
+[3.2.4]: https://github.com/itefixnet/logwot8/releases/tag/v3.2.4
 
 ## [Previous versions]
 
